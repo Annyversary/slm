@@ -1,0 +1,10 @@
+# Compiled object files
+obj/
+
+# Executable
+slm
+
+# Editor backup / swap files
+*.swp
+*.swo
+*~
